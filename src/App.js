@@ -1,5 +1,4 @@
 import './App.css';
-import IncDec from './Components/IncDec'
 import JeuDe from './Components/JeuDe';
 function App() {
   return (
